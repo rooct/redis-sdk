@@ -3,6 +3,15 @@ name = "redis-sdk"
 version = "0.1.0"
 edition = "2021"
 
+description = "library for redis"
+license = "MIT"
+
+authors = ["rooct@rooct.com"]
+homepage = "https://github.com/rooct/redis-sdk.git"
+repository = "https://github.com/rooct/redis-sdk.git"
+keywords = ["redis"]
+categories = ["redis"]
+
 [dependencies]
 anyhow = "1.0.91"
 dotenv = "0.15.0"
